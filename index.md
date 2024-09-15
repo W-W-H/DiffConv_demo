@@ -1,4 +1,4 @@
-# Multi-view MidiVAE: Fusing Track- and Bar-view Representations for Long Multi-track Symbolic Music Generation
+# DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models
 
 ### *Zhiwei Lin, Jun Chen, Boshi Tang, Binzhu Sha, Jing Yang, Yaolong Ju, Fan Fan, Shiyin Kang, Zhiyong Wu, Helen Meng*
 
